@@ -1,6 +1,6 @@
 # flash_light
 
-A new Flutter project.
+A Flash Light Flutter project.
 
 ## Getting Started
 
